@@ -9,7 +9,9 @@ class AuthPage extends StatefulWidget {
 }
 
 class _AuthPageState extends State<AuthPage> {
+  // ignore: use_late_for_private_fields_and_variables, unused_field
   String? _email;
+  // ignore: use_late_for_private_fields_and_variables, unused_field
   String? _password;
 
   @override
