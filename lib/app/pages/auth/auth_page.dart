@@ -63,8 +63,6 @@ class _AuthPageState extends State<AuthPage> {
                       ),
                       onPressed: () async {
                         // TODO(me): Call Auth API
-                        print(_email);
-                        print(_password);
                       },
                     ),
                   ].expand((widget) => [widget, const SizedBox(height: 24)])

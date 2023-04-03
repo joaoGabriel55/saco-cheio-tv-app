@@ -6,7 +6,6 @@
 // tree, read text, and verify that the values of widget properties are correct.
 
 import 'package:flutter_test/flutter_test.dart';
-import 'package:saco_cheio_app/app/shared/app_widget.dart';
 
 void main() {
   testWidgets('renders auth page', (WidgetTester tester) async {
